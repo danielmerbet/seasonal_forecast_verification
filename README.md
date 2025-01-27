@@ -14,6 +14,11 @@ This repository contains analysis for verifying and assessing seasonal forecast 
 - **Flexible Analysis**: Customizable for various datasets, regions, variables, and temporal scales.
 - **Support for Observations**: Integrate observational or reanalysis data for benchmarking.
 
+## Explanation
+- **data**: contains the original NetCDF data use in the analysis
+- **download**: contains the python scripts to download the data from Copernicus CDS API service
+- **verification.ipynb**: contains the analysis
+
 ## Installation
 
 Clone the repository to your local machine:
