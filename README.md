@@ -1,6 +1,7 @@
 # Seasonal Forecast Verification
 
 This repository contains analysis for verifying and assessing seasonal forecast accuracy and skill. It is designed for researchers and practitioners working with forecasting, enabling evaluation and visualization of probabilistic forecast performance. In this example, climate data was used but it can be apply to any other environmental variable (hydrology, ecology, etc.)
+
 ![CRPSS results](./data/heatmap.png)
 
 ## Why is this important?
