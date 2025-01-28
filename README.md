@@ -22,12 +22,7 @@ This repository contains analysis for verifying and assessing seasonal forecast 
 ## Case Study
 - **Target variable**: here only air temperature is used in the analysis, but the workflow is reproducible to any meteorological or environmental variable
 - **Data source**: ERA5 reanlysis was used as observation and SEAS5 as seasonal forecast
-- **Area of study**: area of the index for Niño 3 (4°N to 4°S, 150°W to 90°W), also called Japanese Meteorological Agency ENSO Index (JMA)
-<iframe
-  src="https://www.google.com/maps/d/embed?mid=1kvhJP6_DFn7CQyJM9fstEXsvv4uUBCg&hl=en"
-  width="640"
-  height="480">
-</iframe>
+- **Area of study**: area of the index for Niño 3 (4°N to 4°S, 150°W to 90°W), also called Japanese Meteorological Agency ENSO Index (JMA). [View on Maps](https://www.google.com/maps/d/embed?mid=1kvhJP6_DFn7CQyJM9fstEXsvv4uUBCg&hl=en)
 
 ## Installation
 
