@@ -1,6 +1,12 @@
 # Seasonal Forecast Verification
 
-This repository contains analysis for verifying and assessing seasonal forecast accuracy and skill. It is designed for researchers and practitioners working with climate forecasts, enabling evaluation and visualization of probabilistic forecast performance.
+This repository contains analysis for verifying and assessing seasonal forecast accuracy and skill. It is designed for researchers and practitioners working with forecasting, enabling evaluation and visualization of probabilistic forecast performance. In this example, climate data was used but it can be apply to any other environmental variable (hydrology, ecology, etc.)
+
+## Why is this important?
+- **Purpose**: to evaluate how well the forecast matches observed outcomes. It quantifies the reliability of the predictions, helping users understand their accuracy and limitations.
+- **Building confidence**: verification provides confidence to stakeholders (e.g., water managers, farmers, policymakers) in using the forecast as a decision-making tool. A forecast with demonstrated skill is more likely to be trusted and applied.
+- **Determining practical value**: seasonal forecasts often have limited skill, especially in certain regions or for specific variables. Verification helps determine the operational value of applying the forecast.
+- **Communicating uncertainty**: seasonal forecasts are probabilistic and inherently uncertain. Verification ensures that this uncertainty is quantified and effectively communicated.
 
 ## Features
 
@@ -17,7 +23,7 @@ This repository contains analysis for verifying and assessing seasonal forecast 
 ## Explanation
 - **data**: contains the original NetCDF data used in the analysis
 - **download**: contains the python scripts to download the data from Copernicus CDS API service
-- **verification.ipynb**: contains the analysis
+- **verification.ipynb**: if you follow this code, you should be able to implement a seasonal forecast verification
 
 ## Case Study
 - **Target variable**: here only air temperature is used in the analysis, but the workflow is reproducible to any meteorological or environmental variable
