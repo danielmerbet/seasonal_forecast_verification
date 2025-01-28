@@ -4,7 +4,7 @@ This repository contains analysis for verifying and assessing seasonal forecast 
 
 ## Why is this important?
 - **Purpose**: to evaluate how well the forecast matches observed outcomes. It quantifies the reliability of the predictions, helping users understand their accuracy and limitations.
-- **Building confidence**: verification provides confidence to stakeholders (e.g., water managers, farmers, policymakers) in using the forecast as a decision-making tool. A forecast with demonstrated skill is more likely to be trusted and applied.
+- **Building confidence**: verification provides confidence to stakeholders (e.g., water managers, farmers, policymakers) in using the forecast as a decision-making tool.
 - **Determining practical value**: seasonal forecasts often have limited skill, especially in certain regions or for specific variables. Verification helps determine the operational value of applying the forecast.
 - **Communicating uncertainty**: seasonal forecasts are probabilistic and inherently uncertain. Verification ensures that this uncertainty is quantified and effectively communicated.
 
